@@ -12,6 +12,10 @@
 * [Fradium Extensions](using-fradium/fradium-extensions.md)
 * [Community Reports](using-fradium/community-reports.md)
 
+***
+
+* [Fradium Assistant](fradium-assistant.md)
+
 ## TOKENEMICS
 
 * [FUM Token Overview](tokenemics/fum-token-overview.md)
