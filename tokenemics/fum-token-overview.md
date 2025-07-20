@@ -4,13 +4,13 @@
 
 FUM is designed to reward credible contributions, power governance decisions, and support staking mechanisms that protect users from malicious blockchain activity.
 
-### Key Details
+## Key Details
 
 | Attribute       | Value                    |
 | --------------- | ------------------------ |
 | Token Name      | Fradium Utility Module   |
 | Symbol          | FUM                      |
-| Token Type      | ICRC-1 (ICP-native)      |
+| Token Type      | ICRC-1 & ICRC 2          |
 | Decimals        | 8                        |
 | Initial Supply  | 1,000,000 FUM            |
 | Issuer Canister | Fradium Backend Canister |
@@ -28,7 +28,7 @@ FUM is used throughout the Fradium platform for:
 
 
 
-### **Token Distribution**
+## **Token Distribution**
 
 At launch, FUM tokens are distributed as follows:
 
